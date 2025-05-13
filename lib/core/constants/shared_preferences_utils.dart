@@ -1,6 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:islami_app/core/constants/suras_list.dart';
-import 'package:islami_app/features/quran/data/models/sura.dart';
+import 'package:islami_app/core/features/quran/data/models/sura.dart';
+
 import 'package:shared_preferences/shared_preferences.dart';
 
 class RecentSurasProvider extends ChangeNotifier {

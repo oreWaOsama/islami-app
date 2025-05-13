@@ -1,0 +1,2 @@
+D:/GitHub/islami-app2/android/app/.cxx/Debug/731z2w3b/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/GitHub/islami-app2/android/app/.cxx/Debug/731z2w3b/armeabi-v7a/CMakeFiles/rebuild_cache.dir

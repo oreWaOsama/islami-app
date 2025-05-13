@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:islami_app/core/constants/shared_preferences_utils.dart';
 import 'package:islami_app/core/constants/suras_list.dart';
-import 'package:islami_app/features/quran/data/models/sura.dart';
-import 'package:islami_app/features/layout/ui/layout_screen.dart';
-import 'package:islami_app/features/onboarding/ui/onboarding_screen.dart';
+import 'package:islami_app/core/features/layout/ui/layout_screen.dart';
+import 'package:islami_app/core/features/onboarding/ui/onboarding_screen.dart';
+import 'package:islami_app/core/features/quran/data/models/sura.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

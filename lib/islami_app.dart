@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:islami_app/features/onboarding/ui/onboarding_screen.dart';
+import 'package:islami_app/core/features/onboarding/ui/onboarding_screen.dart';
 
 class IslamiApp extends StatelessWidget {
   const IslamiApp({super.key});

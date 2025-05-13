@@ -3,10 +3,9 @@ import 'package:flutter_svg/svg.dart';
 import 'package:islami_app/core/app_colors/app_colors.dart';
 import 'package:islami_app/core/constants/shared_preferences_utils.dart';
 import 'package:islami_app/core/constants/suras_list.dart';
-import 'package:islami_app/features/quran/data/models/sura.dart';
-import 'package:islami_app/features/quran/ui/widgets/most_recent_suras.dart';
-
-import 'package:islami_app/features/sura_details/ui/sura_details_screen.dart';
+import 'package:islami_app/core/features/quran/data/models/sura.dart';
+import 'package:islami_app/core/features/quran/ui/widgets/most_recent_suras.dart';
+import 'package:islami_app/core/features/sura_details/ui/sura_details_screen.dart';
 import 'package:provider/provider.dart';
 
 class QuranScreen extends StatefulWidget {

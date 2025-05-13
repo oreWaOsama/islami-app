@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:islami_app/core/app_colors/app_colors.dart';
-import 'package:islami_app/features/onboarding/data/models/onboarding_data.dart';
-import 'package:islami_app/features/onboarding/data/widgets/page_view_body.dart';
-import 'package:islami_app/features/layout/ui/layout_screen.dart';
+import 'package:islami_app/core/features/layout/ui/layout_screen.dart';
+import 'package:islami_app/core/features/onboarding/data/models/onboarding_data.dart';
+import 'package:islami_app/core/features/onboarding/data/widgets/page_view_body.dart';
+
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 

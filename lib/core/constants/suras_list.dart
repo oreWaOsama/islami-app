@@ -1,4 +1,4 @@
-import 'package:islami_app/features/quran/data/models/sura.dart';
+import 'package:islami_app/core/features/quran/data/models/sura.dart';
 
 abstract class SurasList {
   static const List<String> arabicQuranSuras = [

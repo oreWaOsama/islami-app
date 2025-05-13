@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 import 'package:islami_app/core/app_colors/app_colors.dart';
-import 'package:islami_app/features/onboarding/data/models/onboarding_data.dart';
+import 'package:islami_app/core/features/onboarding/data/models/onboarding_data.dart';
 
 class PageViewBody extends StatelessWidget {
   final PageController controller;

@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:islami_app/core/app_colors/app_colors.dart';
-import 'package:islami_app/features/hadith/ui/hadith_screen.dart';
-import 'package:islami_app/features/quran/ui/quran_screen.dart';
-import 'package:islami_app/features/radio/ui/radio_screen.dart';
-import 'package:islami_app/features/salah/ui/salah_screen.dart';
-import 'package:islami_app/features/sebha/ui/sebha_screen.dart';
+import 'package:islami_app/core/features/hadith/ui/hadith_screen.dart';
+import 'package:islami_app/core/features/quran/ui/quran_screen.dart';
+import 'package:islami_app/core/features/radio/ui/radio_screen.dart';
+import 'package:islami_app/core/features/salah/ui/salah_screen.dart';
+import 'package:islami_app/core/features/sebha/ui/sebha_screen.dart';
+
 
 class LayoutScreen extends StatefulWidget {
   const LayoutScreen({super.key});
